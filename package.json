@@ -1,0 +1,21 @@
+{
+  "name": "gitlens-l10n",
+  "version": "1.0.0",
+  "description": "A zero-dependency translation and localization tool for the VS Code GitLens extension, featuring multi-language support, automated caching, and offline recovery.",
+  "main": "translate_gitlens.js",
+  "type": "module",
+  "scripts": {
+    "translate": "node scripts/launch_translation.js",
+    "translate:direct": "node translate_gitlens.js",
+    "restore": "node translate_gitlens.js --restore",
+    "clear-cache": "node scripts/clear_cache.js"
+  },
+  "keywords": [
+    "gitlens",
+    "l10n",
+    "chinese",
+    "translation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
