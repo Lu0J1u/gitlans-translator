@@ -56,9 +56,5 @@ A zero-dependency translation and localization tool for the VS Code GitLens exte
     *   **Action**: Cleans up all saved translation cache JSON files under the `caches/` directory.
 
 ## 🖼️ Screenshots
-
-| 1. Interactive Display & Engine Selection | 2. Starts Translating & Saves Cache |
-| :---: | :---: |
 | ![step1](images/1.png) | ![step2](images/2.png) |
-| **3. Translation Finished & Injected** | **4. Translated GitLens Interface in VS Code** |
 | ![step3](images/3.png) | ![step4](images/4.png) |
