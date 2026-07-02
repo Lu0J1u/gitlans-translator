@@ -36,9 +36,5 @@
 - 如需清除所有语言的缓存文件：`npm run clear-cache`。
 
 ## 🖼️ 效果演示
-
-| 1. 交互式选择语言及翻译引擎 | 2. 开始翻译并自动生成缓存 |
-| :---: | :---: |
 | ![step1](images/1.png) | ![step2](images/2.png) |
-| **3. 翻译完成并成功写入插件** | **4. 重启 VS Code 后的汉化效果** |
 | ![step3](images/3.png) | ![step4](images/4.png) |
