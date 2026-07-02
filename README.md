@@ -6,7 +6,7 @@
 
 ## 📦 快速开始
 
-1. 克隆仓库或下载**Release**包(如果你需要缓存则必须下载 Releases)
+1. 克隆仓库或下载**Release**包
 2. 在目录下运行 `npm install`。
 3. 打开[translate_gitlens.js](file:///c:/Users/Lesli/Desktop/gitlens-l10n/translate_gitlens.js), 修改16行中的`EXTENSION_DIR`路径到你的`gitlens`路径
 4. 执行 `npm run translate`。
